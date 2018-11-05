@@ -1,0 +1,12 @@
+# USAGE
+# for more details see the README.md from this repository
+# RENAME THIS FILE TO discourses.yml TO USE IT
+# list your discourses below using YAML 'Array' syntax,
+# EXACTLY AS THEY ARE DEFINED IN YOUR SSH CONFIG FILE.
+# YAML is very indentation sensitive so if in doubt use an online YAML checker.
+# I advise not to check this file into version control, although the security risk is minimal.
+
+- discourse-instance1
+- my-other-discourse-instance
+- dev-discourse-instance
+- dev-dhi-discourse
